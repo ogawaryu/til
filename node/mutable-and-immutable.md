@@ -1,7 +1,7 @@
 # Mutable and Immutable Array
 
 Vou começar esse "Today I Learned", com um conceito de array mutável e não mutável.
-Conceito muito usado no dia a dia, usando de forma nativa o que a linguagem pode oferecer.
+Técnica muito usada no dia a dia, implementando de forma nativa o que a linguagem javascript pode oferecer.
 
 ### Mutável
 
