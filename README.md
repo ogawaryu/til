@@ -5,4 +5,4 @@ Uma coleção de pequenos artigos escrito por mim sobre pequenas coisas que apre
 
 ### Node
 
-- [Pouco do conceito de Mutable and Immutable Array](node/mutable-and-immutable.md)
+- [Um pouco sobre conceito de Mutable and Immutable Array](node/mutable-and-immutable.md)
