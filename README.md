@@ -8,3 +8,4 @@ Uma coleção de pequenos artigos escrito por mim sobre pequenas coisas que apre
 - [Pouco do conceito de Mutable and Immutable Array](node/mutable-and-immutable.md)
 - [Funções assíncrinas](node/async-functions.md)
 - [Atributos privados de classes](node/private-class-fields.md)
+- [Threads no Node.JS](node/threads.md)
